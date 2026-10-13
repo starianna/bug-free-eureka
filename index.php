@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    <?php var_dump(http_response_code(404)); ?>
 <head>
     <meta charset="UTF-8">
     <title>test...</title>
